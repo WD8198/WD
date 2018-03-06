@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -13,3 +12,4 @@
 <p>低头思故乡。</p>
 </body>
 </html>
+
