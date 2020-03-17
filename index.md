@@ -7,7 +7,11 @@
         body{
             background-image:url(0.jpg);
             background-size:100% 100%;
+            height:100%;
             }
+        html{
+            height:100%;
+        }
     </style>  
 </head>
 <body>
