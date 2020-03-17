@@ -3,6 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <title>DM</title>
+    <style type="text/css">
+        body{
+            background-image:url(0.jpg);
+            background-size:100% 100%;
+            }
+    </style>  
 </head>
 <body>
 <img src="0.jpg"/>
