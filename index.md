@@ -1,32 +1,20 @@
-
+ <!DOCTYPE html>
 <html lang="en">
+ 
 <head>
     <meta charset="UTF-8">
-    <title>小D的网站</title>
-    <style type="text/css">
-        body{
-            background-image:url(0.jpg);
-            background-size:100% 100%;
-            height:100%;
-            }
-        html{
-            height:100%;
-        }
-        @keyframes myfirst{
-                   from{opacity:0}
-                   to{opacity:100}
-        }
-        h1,p{
-            animation:myfirst 2s infinite;
-        }
-    </style>  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
 </head>
+ 
 <body>
-<h1>静夜思</h1>
-<p>床前明月光，</p>
-<p>疑是地上霜。</p>
-<p>举头望明月，</p>
-<p>低头思故乡。</p>
+    <p>文字</p>
 </body>
+<script>
+    let randomNum = (min, max) => Math.round(Math.random() * (max - min + 1)) + min
+    setInterval(()=>{
+        document.querySelector("p").style.color = "rgb("+randomNum(0,255)+","+randomNum(0,255)+","+randomNum(0,255)+")"
+    })
+</script>
+ 
 </html>
-
