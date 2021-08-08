@@ -62,8 +62,4 @@ i=0;
 
 <body>
 
-<h1 id="one" class="">诚信立足 创新致远</h1>
-
-</body>
-
-</html>
+<h1 id="one" class="">诚信立足 创新致远
