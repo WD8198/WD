@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>DM</title>
+    <title>小D的网站</title>
     <style type="text/css">
         body{
             background-image:url(0.jpg);
