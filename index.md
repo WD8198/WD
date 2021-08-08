@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd";>
+
 
 <html>
 
@@ -62,7 +62,7 @@ i=0;
 
 <body>
 
-<p id="one" class="">文字不停的变颜色！</p>
+<hi id="one" class="">诚信立足 创新致远</h1>
 
 </body>
 
